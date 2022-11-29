@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bindekere&label=Profile%20views&color=0e75b6&style=flat" alt="bindekere" /> </p>
 
-- 🔭 I’m currently working on [TailwindCSS course]([https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0](https://egghead.io/lessons/tailwind-set-up-tailwind-and-postcss))
+- 🔭 I’m currently doing a [TailwindCSS course]([https://egghead.io/lessons/tailwind-set-up-tailwind-and-postcss])
 
 - 🌱 I’m currently practicing **React and intergrating it with other CSS frameworks like Tailwind CSS**
 
