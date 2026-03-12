@@ -1,10 +1,10 @@
 <h1>Hi, I'm Aaron Bindekere👋</h1>
 
-<img align="right" alt="Coding" height="220" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<img align="right" alt="Coding" height="180" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 **Frontend Developer & Trader based in Uganda.**
 
-I build clean, functional web experiences and I'm working towards the intersection of frontend development, AI, and fintech. Currently focused on shipping real projects, sharpening my React skills, and exploring AI-powered product development.
+I build clean, functional web experiences, and I'm working towards the intersection of frontend development, AI, and fintech. Currently focused on shipping real projects, sharpening my React skills, and exploring AI-powered product development.
 
 <br/>
 
