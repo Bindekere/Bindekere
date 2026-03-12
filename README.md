@@ -1,29 +1,48 @@
-<h1 align="center">Hi 👋, I'm Aaron Bindekere</h1>
-<h3 align="center">I am a passionate and open minded aspiring front-end developer from Uganda.</h3>
-<img align = "right" alt = "Coding" width = "400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<h1>Hi, I'm Aaron 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bindekere&label=Profile%20views&color=0e75b6&style=flat" alt="bindekere" /> </p>
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-- 🔭 I’m currently doing a [TailwindCSS course]([https://egghead.io/lessons/tailwind-set-up-tailwind-and-postcss])
+**Frontend Developer & Trader based in Uganda.**
 
-- 🌱 I’m currently practicing **React and intergrating it with other CSS frameworks like Tailwind CSS**
+I build clean, functional web experiences and I'm working towards the intersection of frontend development, AI, and fintech. Currently focused on shipping real projects, sharpening my React skills, and exploring AI-powered product development.
 
-- 👯 I’m looking to collaborate on **any React or Javascript project**
+<br/>
 
-- 💬 Ask me about **React, Frontend projects and work, Javascript**
+---
 
-- 📫 How to reach me **abindekere@gmail.com**
+### What I'm working on
+- 🗂️ Building and refining my developer portfolio
+- ⚛️ Deepening my React & JavaScript knowledge
+- 🤖 Exploring AI tools and how to build with them
+- 📈 Full-time trading alongside my development work
 
-- ⚡ Fun fact **I am the 2006 time magazine person of the year.😂**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aaron bindekere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron bindekere" height="30" width="40" /></a>
-<a href="https://instagram.com/@lutalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lutalo" height="30" width="40" /></a>
-</p>
+### Tech I work with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bindekere&show_icons=true&locale=en&layout=compact" alt="bindekere" /></p>
+---
 
+### Projects
+
+| Project | Description | Live |
+|---|---|---|
+| 🧠 Trivia Quiz App | React quiz app with live API questions, state management & Play Again flow | [capstonequizproject.netlify.app](https://capstonequizproject.netlify.app/) |
+| 🗺️ IP Address Tracker | Fetches geolocation data and renders it on an interactive Leaflet.js map | [Live](https://bindekere-ip-address-tracker.netlify.app/) |
+| 🎬 Movie Watchlist | Search OMDb API, view details, manage a persistent watchlist | [Live](https://bindekere-movie-watchlist.netlify.app/) |
+| 🎲 Advice Generator | Fetches random advice via API with smooth card animations | [Live](https://advice-generation.netlify.app/) |
+| 🔑 Password Generator | Generates secure passwords instantly with clipboard copy | [Live](https://mysimplepasswordgenerator.netlify.app/) |
+| 🎨 Color Scheme Generator | Generates 5-colour palettes from any base colour via The Color API | [Live](https://mysimplecolorschemegenerator.netlify.app/) |
+
+---
+
+### Get in touch
+
+📧 abindekere@gmail.com
