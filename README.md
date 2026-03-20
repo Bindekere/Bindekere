@@ -1,20 +1,24 @@
-<h1>Hi, I'm Aaron Bindekere👋</h1>
+<h1>Hi, I'm Aaron Lutalo 👋</h1>
+
+<!-- SEO: Full name, location, and role repeated in plain text for indexing -->
+<p><strong>Aaron Lutalo (Bindekere)</strong> — Frontend Developer & React Engineer based in Kampala, Uganda.</p>
 
 <img align="right" alt="Coding" width="200" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-**Frontend Developer & Trader based in Uganda.**
+I build clean, functional web experiences and I'm working at the intersection of frontend development, AI, and fintech. Currently focused on shipping real products, deepening my React skills, and exploring AI-powered product development.
 
-I build clean, functional web experiences, and I'm working towards the intersection of frontend development, AI, and fintech. Currently focused on shipping real projects, sharpening my React skills, and exploring AI-powered product development.
+🌐 **Portfolio:** [lutalo-portfolio.netlify.app](https://lutalo-portfolio.netlify.app/)
+📧 **Contact:** abindekere@gmail.com
 
 <br/>
 
 ---
 
 ### What I'm working on
-- 🗂️ Building and refining my developer portfolio
-- ⚛️ Deepening my React & JavaScript knowledge
-- 🤖 Exploring AI tools and how to build with them
-- 📈 Full-time trading alongside my development work
+- 🗂️ Shipping and refining my developer portfolio
+- ⚛️ Deepening my React & JavaScript knowledge  
+- 🤖 Building AI-powered web products
+- 📈 Full-time trading alongside development work
 
 ---
 
@@ -34,7 +38,7 @@ I build clean, functional web experiences, and I'm working towards the intersect
 
 | Project | Description | Live |
 |---|---|---|
-| 🧠 Trivia Quiz App | React quiz app with live API questions, state management & Play Again flow | [capstonequizproject.netlify.app](https://capstonequizproject.netlify.app/) |
+| 🧠 Trivia Quiz App | React quiz app with live API questions, state management & responsive UI | [capstonequizproject.netlify.app](https://capstonequizproject.netlify.app/) |
 | 🗺️ IP Address Tracker | Fetches geolocation data and renders it on an interactive Leaflet.js map | [Live](https://bindekere-ip-address-tracker.netlify.app/) |
 | 🎬 Movie Watchlist | Search OMDb API, view details, manage a persistent watchlist | [Live](https://bindekere-movie-watchlist.netlify.app/) |
 | 🎲 Advice Generator | Fetches random advice via API with smooth card animations | [Live](https://advice-generation.netlify.app/) |
@@ -43,6 +47,4 @@ I build clean, functional web experiences, and I'm working towards the intersect
 
 ---
 
-### Get in touch
-
-📧 abindekere@gmail.com
+> *Aaron Lutalo · Frontend Developer · Uganda · React · JavaScript · Web Development · AI Products*
